@@ -6,7 +6,7 @@ Either manually or with (if you don't already have a tmux config):
 
 ```bash
 cd ~
-wget https://raw.githubusercontent.com/jmbuhr/tmux-kickstarter/main/.tmux.conf
+wget https://raw.githubusercontent.com/sutyum/tmux-kickstarter/main/.tmux.conf
 ```
 
 Then:
